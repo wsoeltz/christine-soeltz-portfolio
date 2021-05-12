@@ -75,6 +75,8 @@ const IndexPage = () => {
           href="https://fonts.googleapis.com/css2?family=Arapey&family=Source+Sans+Pro:wght@400;600&display=swap"
           rel="stylesheet"
         />
+        <title>Christine Soeltz | Artist Portfolio</title>
+        <meta property='og:title' content={'Christine Soeltz | Artist Portfolio'} />
       </Helmet>
       <Root>
         <Header />

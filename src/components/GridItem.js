@@ -4,6 +4,11 @@ import styled from 'styled-components';
 const Root = styled.div`
   padding-bottom: 1rem;
   background-color: #f8f8f8;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #e8e8e8;
+  }
 `;
 
 const ImageContainer = styled.div`
@@ -38,6 +43,7 @@ const GridItem = props => {
   const {
     TITLE, FILENAME, GRID_COUNT, GRID_HEIGHT,
     DESCRIPTION, WIDTH_INCHES, HEIGHT_INCHES,
+    setActive,
   } = props;
   if (!TITLE || !FILENAME) {
     return null;
@@ -63,6 +69,7 @@ const GridItem = props => {
         gridColumn: GRID_COUNT ? `span ${GRID_COUNT}` : 'span 3',
         gridRow: GRID_HEIGHT ? `span ${GRID_HEIGHT}` : undefined,
       }}
+      onClick={() => setActive(props)}
     >
       <ImageContainer>
         <Image
@@ -79,4 +86,4 @@ const GridItem = props => {
   );
 }
 
-export default GridItem;
+export default React.memo(GridItem);

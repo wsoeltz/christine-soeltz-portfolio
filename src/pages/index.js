@@ -1,9 +1,11 @@
-import * as React from "react";
+import React, {useState} from "react";
 import data from '../data/main.json';
 import GridItem from '../components/GridItem';
 import styled from 'styled-components';
 import Header from '../components/Header';
 import Helmet from 'react-helmet';
+import {OverlayPortal} from '../components/Modal';
+import Lightbox from '../components/Modal/Lightbox';
 
 const Root = styled.main`
   font-family: 'Source Sans Pro', sans-serif;
@@ -21,15 +23,47 @@ const Grid = styled.div`
 // markup
 const IndexPage = () => {
 
+  const [active, setActive] = useState(null);
+  const nextActive = () => {
+    if (active) {
+      const curr = data.findIndex(d => d.FILENAME === active.FILENAME);
+      let next = curr + 1;
+      if (next >= data.length) {
+        next = 0;
+      }
+      setActive(data[next]);
+    }
+  }
+  const prevActive = () => {
+    if (active) {
+      const curr = data.findIndex(d => d.FILENAME === active.FILENAME);
+      let prev = curr - 1;
+      if (prev < 0) {
+        prev = data.length - 1;
+      }
+      setActive(data[prev]);
+    }
+  }
+
   const items = data.map((d, i) => {
     return (
       <GridItem
         key={d.TITLE + i}
         {...d}
+        setActive={setActive}
       />
     );
   })
-  
+
+  const modal = active ? (
+    <Lightbox
+      {...active}
+      onClose={() => setActive(null)}
+      prevActive={prevActive}
+      nextActive={nextActive}
+    />
+  ): null;
+
   return (
     <>
       <Helmet>
@@ -48,6 +82,8 @@ const IndexPage = () => {
           {items}
         </Grid>
       </Root>
+      <OverlayPortal />
+      {modal}
     </>
   )
 }

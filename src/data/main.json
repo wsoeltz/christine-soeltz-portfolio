@@ -8,11 +8,11 @@
     "DESCRIPTION": "acrylic paint/ink",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 5,
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_See.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/mm5c2pqzzbtip5x/Soeltz_See.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/mm5c2pqzzbtip5x/Soeltz_See.jpg?dl=0"
   },
   {
     "TITLE": "Tryptich#2:Run",
@@ -23,11 +23,11 @@
     "DESCRIPTION": "acrylic paint/ink",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 4,
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Run.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/3bp9qae0shas81z/20190830_104216.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/3bp9qae0shas81z/20190830_104216.jpg?dl=0"
   },
   {
     "TITLE": "Tryptich#3:Embrace",
@@ -38,11 +38,11 @@
     "DESCRIPTION": "acrylic paint/ink",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 3,
+    "GRID_COUNT": 5,
     "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_Embrace.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/1v16ah0nc19d8pa/Soeltz_Embrace.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/1v16ah0nc19d8pa/Soeltz_Embrace.jpg?dl=0"
   },
   {
     "TITLE": "Ninety Years of Light",
@@ -53,11 +53,11 @@
     "DESCRIPTION": "oil crayon, paint, ink",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 6,
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_NinetyYearsOfLight.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/q7l089e1kzno7nq/Soeltz_NinetyYearsOfLight.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/q7l089e1kzno7nq/Soeltz_NinetyYearsOfLight.jpg?dl=0"
   },
   {
     "TITLE": "Pond Life:Solitude",
@@ -72,7 +72,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Solitude.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/dtqib5ncwsi4a4p/Soeltz_Solitude.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/dtqib5ncwsi4a4p/Soeltz_Solitude.jpg?dl=0"
   },
   {
     "TITLE": "Portals",
@@ -87,7 +87,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Portals.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/2f8hjf2ltvrh09s/Soeltz_Portals.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/2f8hjf2ltvrh09s/Soeltz_Portals.jpg?dl=0"
   },
   {
     "TITLE": "Gingerly Balanced",
@@ -98,11 +98,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 3,
-    "GRID_HEIGHT": "",
+    "GRID_COUNT": 5,
+    "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_GingerlyBalanced.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/ci0izfcalrmoast/Soeltz_GingerlyBalanced.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/ci0izfcalrmoast/Soeltz_GingerlyBalanced.jpg?dl=0"
   },
   {
     "TITLE": "Cross the Wilderness",
@@ -113,11 +113,11 @@
     "DESCRIPTION": "paint/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 3,
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_CrossTheWilderness.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/5rp6ohpuy7eqr4q/Soeltz_CrossTheWilderness.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/5rp6ohpuy7eqr4q/Soeltz_CrossTheWilderness.jpg?dl=0"
   },
   {
     "TITLE": "Fully Booked",
@@ -128,11 +128,11 @@
     "DESCRIPTION": "collage:oil crayon, fabric, paper",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 6,
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Fully_Booked.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/in7529ezjg3e5oj/Soeltz_Fully_Booked.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/in7529ezjg3e5oj/Soeltz_Fully_Booked.jpg?dl=0"
   },
   {
     "TITLE": "Arctic Fox",
@@ -147,7 +147,7 @@
     "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_ArcticFox.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/w5fsh9ml66jzmh7/Soeltz_ArcticFox.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/w5fsh9ml66jzmh7/Soeltz_ArcticFox.jpg?dl=0"
   },
   {
     "TITLE": "Tail and Tale",
@@ -158,26 +158,11 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 6,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Tail_and_Tale.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/qydqhzi1wxoty5h/Soeltz_Tail_and_Tale.jpg?dl=0"
-  },
-  {
-    "TITLE": "Seasonal Change",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 49,
-    "HEIGHT_INCHES": 37,
-    "DESCRIPTION": "acrylic painting",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Seasonal_Change.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/fl5spom0hgci71i/Soeltz_Seasonal_Change.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/qydqhzi1wxoty5h/Soeltz_Tail_and_Tale.jpg?dl=0"
   },
   {
     "TITLE": "Apple Melody",
@@ -188,11 +173,11 @@
     "DESCRIPTION": "collage of painted papers",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 6,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Apple_Melody.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/egbpz8wykj8x90a/Soeltz_Apple_Melody.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/egbpz8wykj8x90a/Soeltz_Apple_Melody.jpg?dl=0"
   },
   {
     "TITLE": "Stone Halo",
@@ -203,11 +188,11 @@
     "DESCRIPTION": "monotype",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 4,
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_StoneHalo.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/85aa8pxj5g8euwy/Soeltz_StoneHalo.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/85aa8pxj5g8euwy/Soeltz_StoneHalo.jpg?dl=0"
   },
   {
     "TITLE": "Muse",
@@ -218,11 +203,26 @@
     "DESCRIPTION": "monoprint",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Muse.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/9i51w3rgizyrxt1/Soeltz_Muse.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/9i51w3rgizyrxt1/Soeltz_Muse.jpg?dl=0"
+  },
+  {
+    "TITLE": "Seasonal Change",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 49,
+    "HEIGHT_INCHES": 37,
+    "DESCRIPTION": "acrylic painting",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 6,
+    "GRID_HEIGHT": 2,
+    "": "",
+    "FILENAME": "Soeltz_Seasonal_Change.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/fl5spom0hgci71i/Soeltz_Seasonal_Change.jpg?dl=0"
   },
   {
     "TITLE": "Fruition",
@@ -233,11 +233,11 @@
     "DESCRIPTION": "water based oil painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 4,
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Fruition.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/hfgiqxigthw7aef/Soeltz_Fruition.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/hfgiqxigthw7aef/Soeltz_Fruition.jpg?dl=0"
   },
   {
     "TITLE": "Night Dance",
@@ -248,11 +248,11 @@
     "DESCRIPTION": "pastel and ink drawing on paper",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 4,
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_NightDance.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/jgga0dbzzsd1s3p/Soeltz_NightDance.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/jgga0dbzzsd1s3p/Soeltz_NightDance.jpg?dl=0"
   },
   {
     "TITLE": "Found Shadow",
@@ -263,11 +263,11 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
+    "GRID_COUNT": 5,
+    "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_Found_Shadow.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/l2ng312zubhlu8h/Soeltz_Found_Shadow.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/l2ng312zubhlu8h/Soeltz_Found_Shadow.jpg?dl=0"
   },
   {
     "TITLE": "The Vote: What Informs Decision?",
@@ -278,11 +278,11 @@
     "DESCRIPTION": "water based oil painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 7,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_The_Vote_WhatInformsDecision.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/kw5ndarklqd1lbi/Soeltz_The_Vote%3AWhat%20informs%20decision%3F.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/kw5ndarklqd1lbi/Soeltz_The_Vote%3AWhat%20informs%20decision%3F.jpg?dl=0"
   },
   {
     "TITLE": "Red Flat",
@@ -293,71 +293,11 @@
     "DESCRIPTION": "monoprint/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Red_Flat.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/f5w1f4ohk1j3flc/Soeltz_Red_Flat.jpg?dl=0"
-  },
-  {
-    "TITLE": "Pasture",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 23.75,
-    "HEIGHT_INCHES": 17.75,
-    "DESCRIPTION": "water based oil painting",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Pasture.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/6taa8mlomburktm/Soeltz_Pasture.jpg?dl=0"
-  },
-  {
-    "TITLE": "Dusk on Cape",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 23.75,
-    "HEIGHT_INCHES": 17.75,
-    "DESCRIPTION": "water based oil painting",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Dusk_on_Cape.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/m10u9khiwob974c/Soeltz_Dusk_on_Cape.jpg?dl=0"
-  },
-  {
-    "TITLE": "Taconic Farm",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 48,
-    "HEIGHT_INCHES": 17.75,
-    "DESCRIPTION": "water based oil painting",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Taconic_Farm.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/snau6waszjmx295/Soeltz_Taconic_Farm.jpg?dl=0"
-  },
-  {
-    "TITLE": "Under the Hemlock",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 48,
-    "HEIGHT_INCHES": 17.75,
-    "DESCRIPTION": "water based oil painting",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Under_the_Hemlock.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/4nrizg3jvwt04hg/Soeltz_Under_the_Hemlock.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/f5w1f4ohk1j3flc/Soeltz_Red_Flat.jpg?dl=0"
   },
   {
     "TITLE": "Emilia's Music",
@@ -368,11 +308,71 @@
     "DESCRIPTION": "monoprint",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_EmiliasMusic.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/cik4vooqx4kze0e/Soeltz_Emilia%27sMusic.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/cik4vooqx4kze0e/Soeltz_Emilia%27sMusic.jpg?dl=0"
+  },
+  {
+    "TITLE": "Pasture",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 23.75,
+    "HEIGHT_INCHES": 17.75,
+    "DESCRIPTION": "water based oil painting",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 5,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Pasture.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/6taa8mlomburktm/Soeltz_Pasture.jpg?dl=0"
+  },
+  {
+    "TITLE": "Taconic Farm",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 48,
+    "HEIGHT_INCHES": 17.75,
+    "DESCRIPTION": "water based oil painting",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 7,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Taconic_Farm.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/snau6waszjmx295/Soeltz_Taconic_Farm.jpg?dl=0"
+  },
+  {
+    "TITLE": "Dusk on Cape",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 23.75,
+    "HEIGHT_INCHES": 17.75,
+    "DESCRIPTION": "water based oil painting",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 5,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Dusk_on_Cape.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/m10u9khiwob974c/Soeltz_Dusk_on_Cape.jpg?dl=0"
+  },
+  {
+    "TITLE": "Under the Hemlock",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 48,
+    "HEIGHT_INCHES": 17.75,
+    "DESCRIPTION": "water based oil painting",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 7,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Under_the_Hemlock.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/4nrizg3jvwt04hg/Soeltz_Under_the_Hemlock.jpg?dl=0"
   },
   {
     "TITLE": "Through Space",
@@ -383,11 +383,11 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Through_Space.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/iksxc68uvwqu42g/Soeltz_Through_Space.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/iksxc68uvwqu42g/Soeltz_Through_Space.jpg?dl=0"
   },
   {
     "TITLE": "Shutters Afloat",
@@ -402,7 +402,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Shutters_Afloat.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/j92q1gwt68ka5nj/Soeltz_Shutters_Afloat.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/j92q1gwt68ka5nj/Soeltz_Shutters_Afloat.jpg?dl=0"
   },
   {
     "TITLE": "That Voice",
@@ -417,7 +417,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_ThatVoice.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/06czqldoy01qxwg/Soeltz_ThatVoice.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/06czqldoy01qxwg/Soeltz_ThatVoice.jpg?dl=0"
   },
   {
     "TITLE": "Bearing It",
@@ -428,11 +428,11 @@
     "DESCRIPTION": "oil crayon drawing",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Bearing_It.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/kjz4z7ygj9l0tf3/Soeltz_Bearing_It.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/kjz4z7ygj9l0tf3/Soeltz_Bearing_It.jpg?dl=0"
   },
   {
     "TITLE": "Dervish Dancer",
@@ -443,11 +443,11 @@
     "DESCRIPTION": "oil crayon drawing",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_DervishDancer.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/k8tht2xuzl3oenh/Soeltz_DervishDancer.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/k8tht2xuzl3oenh/Soeltz_DervishDancer.jpg?dl=0"
   },
   {
     "TITLE": "Shorebird",
@@ -458,11 +458,11 @@
     "DESCRIPTION": "monotype",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_ShoreBird.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/znfo45b85hm8sta/Soeltz_ShoreBird.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/znfo45b85hm8sta/Soeltz_ShoreBird.jpg?dl=0"
   },
   {
     "TITLE": "Equanimity",
@@ -473,11 +473,11 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Equanimity.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/h61u6nm04k7upnn/Soeltz_Equanimity.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/h61u6nm04k7upnn/Soeltz_Equanimity.jpg?dl=0"
   },
   {
     "TITLE": "High Priest",
@@ -488,71 +488,11 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_High_Priest.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/u0czkcjk3n6oz0b/Soeltz_High_Priest.jpg?dl=0"
-  },
-  {
-    "TITLE": "Pond Life: Morning Sun",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 30,
-    "HEIGHT_INCHES": 30,
-    "DESCRIPTION": "acrylic paint, monotype collage",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Morning_Sun.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/lm6z873j31e2enh/Soeltz_Morning_Sun.jpg?dl=0"
-  },
-  {
-    "TITLE": "Pond Life: Peak Season",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 30,
-    "HEIGHT_INCHES": 30,
-    "DESCRIPTION": "acrylic paint, monotype collage",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Peak_Season.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/fed57ah0dt1yy5n/Soeltz_Peak_Season.jpg?dl=0"
-  },
-  {
-    "TITLE": "Pond Life:Summer Blue",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 30,
-    "HEIGHT_INCHES": 30,
-    "DESCRIPTION": "acrylic paint, monotype collage",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Summer_Blue.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/q1qd2vky1usmmy6/Soeltz_Summer_Blue.jpg?dl=0"
-  },
-  {
-    "TITLE": "Kindergarten",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 36,
-    "HEIGHT_INCHES": 36,
-    "DESCRIPTION": "water based paints/collage",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Kindergarten.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/3fjnofus8hog40w/Soeltz_Kindergarten.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/u0czkcjk3n6oz0b/Soeltz_High_Priest.jpg?dl=0"
   },
   {
     "TITLE": "Flight",
@@ -563,11 +503,71 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Flight.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/ghngeyavg8h1s7v/Soeltz_Flight.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/ghngeyavg8h1s7v/Soeltz_Flight.jpg?dl=0"
+  },
+  {
+    "TITLE": "Pond Life: Morning Sun",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 30,
+    "HEIGHT_INCHES": 30,
+    "DESCRIPTION": "acrylic paint, monotype collage",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Morning_Sun.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/lm6z873j31e2enh/Soeltz_Morning_Sun.jpg?dl=0"
+  },
+  {
+    "TITLE": "Pond Life: Peak Season",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 30,
+    "HEIGHT_INCHES": 30,
+    "DESCRIPTION": "acrylic paint, monotype collage",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Peak_Season.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/fed57ah0dt1yy5n/Soeltz_Peak_Season.jpg?dl=0"
+  },
+  {
+    "TITLE": "Pond Life:Summer Blue",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 30,
+    "HEIGHT_INCHES": 30,
+    "DESCRIPTION": "acrylic paint, monotype collage",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Summer_Blue.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/q1qd2vky1usmmy6/Soeltz_Summer_Blue.jpg?dl=0"
+  },
+  {
+    "TITLE": "Kindergarten",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 36,
+    "HEIGHT_INCHES": 36,
+    "DESCRIPTION": "water based paints/collage",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Kindergarten.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/3fjnofus8hog40w/Soeltz_Kindergarten.jpg?dl=0"
   },
   {
     "TITLE": "Landing",
@@ -578,56 +578,11 @@
     "DESCRIPTION": "monoprint",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Landing.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/o2ebgjyeofhlyzy/Soeltz_Landing%20%281%29.jpg?dl=0"
-  },
-  {
-    "TITLE": "Penguin: West",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 12,
-    "HEIGHT_INCHES": 36,
-    "DESCRIPTION": "acrylic, glue, paper",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Penguin_West.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/fk4ngjybnpz6eeb/Soeltz_Penguin_West.jpg?dl=0"
-  },
-  {
-    "TITLE": "Penguin: North",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 18,
-    "HEIGHT_INCHES": 48,
-    "DESCRIPTION": "acrylic, glue, paper",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Penguin_North.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/oz1pu2uff4dap7k/Soeltz_Penguin_North.jpg?dl=0"
-  },
-  {
-    "TITLE": "Penguin: East",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 28,
-    "HEIGHT_INCHES": 33.5,
-    "DESCRIPTION": "acrylic, glue, paper",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Penguin_East.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/tw1cnprtoudwxrv/Soeltz_Penguin_East.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/o2ebgjyeofhlyzy/Soeltz_Landing%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "To Carry",
@@ -638,11 +593,86 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_ToCarry.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/xi43n4gnuzk0z6k/Soeltz_ToCarry.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/xi43n4gnuzk0z6k/Soeltz_ToCarry.jpg?dl=0"
+  },
+  {
+    "TITLE": "Penguin: West",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 12,
+    "HEIGHT_INCHES": 36,
+    "DESCRIPTION": "acrylic, glue, paper",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": 2,
+    "": "",
+    "FILENAME": "Soeltz_Penguin_West.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/fk4ngjybnpz6eeb/Soeltz_Penguin_West.jpg?dl=0"
+  },
+  {
+    "TITLE": "Penguin: North",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 18,
+    "HEIGHT_INCHES": 48,
+    "DESCRIPTION": "acrylic, glue, paper",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": 2,
+    "": "",
+    "FILENAME": "Soeltz_Penguin_North.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/oz1pu2uff4dap7k/Soeltz_Penguin_North.jpg?dl=0"
+  },
+  {
+    "TITLE": "Penguin: East",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 28,
+    "HEIGHT_INCHES": 33.5,
+    "DESCRIPTION": "acrylic, glue, paper",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": 2,
+    "": "",
+    "FILENAME": "Soeltz_Penguin_East.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/tw1cnprtoudwxrv/Soeltz_Penguin_East.jpg?dl=0"
+  },
+  {
+    "TITLE": "At Home On Ice",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 28,
+    "HEIGHT_INCHES": 20,
+    "DESCRIPTION": "mosaic, ceramic/porcelain",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 6,
+    "GRID_HEIGHT": 2,
+    "": "",
+    "FILENAME": "Soeltz_AtHomeOnIce.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/jrycy28gmadkpeh/Soeltz_AtHomeOnIce%20%281%29.jpg?dl=0"
+  },
+  {
+    "TITLE": "Meant For You",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 26,
+    "HEIGHT_INCHES": 24,
+    "DESCRIPTION": "mosaic, ceramic/porcelain",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 6,
+    "GRID_HEIGHT": 2,
+    "": "",
+    "FILENAME": "Soeltz_MeantForYou.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/rtkxh1998tkqtc1/Soeltz_MeantForYou.jpg?dl=081%29.jpg?dl=0"
   },
   {
     "TITLE": "Sunburst",
@@ -657,7 +687,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Sunburst.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/yp4561do8ml04a5/Soeltz_Sunburst.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/yp4561do8ml04a5/Soeltz_Sunburst.jpg?dl=0"
   },
   {
     "TITLE": "No Absentees",
@@ -668,11 +698,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 6,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_NoAbsentees.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/vnoxl9tsf3hjldj/Soeltz_NoAbsentees.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/vnoxl9tsf3hjldj/Soeltz_NoAbsentees.jpg?dl=0"
   },
   {
     "TITLE": "As You Go",
@@ -687,7 +717,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_AsYouGo.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/g6wfdqmdxm55yfa/Soeltz_AsYouGo.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/g6wfdqmdxm55yfa/Soeltz_AsYouGo.jpg?dl=0"
   },
   {
     "TITLE": "Daydreams Across My Desk",
@@ -702,7 +732,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_DaydreamsAcrossMyDesk.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/0mqfsnum07pilg8/Soeltz_DaydreamsAcrossMyDesk.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/0mqfsnum07pilg8/Soeltz_DaydreamsAcrossMyDesk.jpg?dl=0"
   },
   {
     "TITLE": "Sea Geometry",
@@ -717,37 +747,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Sea_Geometry.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/epyp10ucnl2rvmg/Soeltz_Sea_Geometry.jpg?dl=0"
-  },
-  {
-    "TITLE": "At Home On Ice",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 28,
-    "HEIGHT_INCHES": 20,
-    "DESCRIPTION": "mosaic, ceramic/porcelain",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_AtHomeOnIce.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/jrycy28gmadkpeh/Soeltz_AtHomeOnIce%20%281%29.jpg?dl=0"
-  },
-  {
-    "TITLE": "Meant For You",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 26,
-    "HEIGHT_INCHES": 24,
-    "DESCRIPTION": "mosaic, ceramic/porcelain",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_MeantForYou.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/rtkxh1998tkqtc1/Soeltz_MeantForYou.jpg?dl=081%29.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/epyp10ucnl2rvmg/Soeltz_Sea_Geometry.jpg?dl=0"
   },
   {
     "TITLE": "Silo",
@@ -759,10 +759,10 @@
     "SOLD": "",
     "DISPLAY": "",
     "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
+    "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_Silo.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/2rj4dhrt4h8heac/Soeltz_Silo.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/2rj4dhrt4h8heac/Soeltz_Silo.jpg?dl=0"
   },
   {
     "TITLE": "Shadows of Early Days",
@@ -774,10 +774,10 @@
     "SOLD": "",
     "DISPLAY": "",
     "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
+    "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_Shadows_of_Early_Days.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/b3l1paes6v5hrdu/Soeltz_Shadows_of_Early_Days.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/b3l1paes6v5hrdu/Soeltz_Shadows_of_Early_Days.jpg?dl=0"
   },
   {
     "TITLE": "Moving Target",
@@ -792,7 +792,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Moving_Target.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/xnot3s882h7pxae/Soeltz_Moving_Target.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/xnot3s882h7pxae/Soeltz_Moving_Target.jpg?dl=0"
   },
   {
     "TITLE": "Transformation",
@@ -807,7 +807,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Transformation.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/y11l3rhhe39l9xp/Soeltz_Transformation.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/y11l3rhhe39l9xp/Soeltz_Transformation.jpg?dl=0"
   },
   {
     "TITLE": "Surrender",
@@ -822,7 +822,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Surrender.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/npp4mb7qh65080i/Soeltz_Surrender.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/npp4mb7qh65080i/Soeltz_Surrender.jpg?dl=0"
   },
   {
     "TITLE": "Edge of Sea at Twilight",
@@ -837,52 +837,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Edge_of_Sea_at_Twilight.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/zu7i5ay6otflcmn/Soeltz_Edge_of_Sea_at_Twilight.jpg?dl=0"
-  },
-  {
-    "TITLE": "Fence and Snow Shadows",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 10,
-    "HEIGHT_INCHES": 10,
-    "DESCRIPTION": "acrylic paint",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Fence_and_Snow_Shadows.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/e4cmeqh2y7gj7ry/Soeltz_Fence%20and%20Snow%20Shadows.jpg?dl=0"
-  },
-  {
-    "TITLE": "Western Red Cedar Shadows in Snow #1",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 10,
-    "HEIGHT_INCHES": 10,
-    "DESCRIPTION": "acrylic paint",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Western_Red_Cedar_Shadows_in_Snow_1.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/otjxgwyrndnqjyz/Soeltz_Western_Red_Cedar_Shadows_in_Snow%231.jpg?dl=0"
-  },
-  {
-    "TITLE": "Western Red Cedar Shadows in Snow #2",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 10,
-    "HEIGHT_INCHES": 10,
-    "DESCRIPTION": "ink/collage",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Western_Red_Cedar_Shadows_in_Snow_2.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/wbm95ypx0i2zaby/Soeltz_Western_Red_Cedar_Shadows_in%20Snow%232.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/zu7i5ay6otflcmn/Soeltz_Edge_of_Sea_at_Twilight.jpg?dl=0"
   },
   {
     "TITLE": "Karmic Balance",
@@ -893,11 +848,56 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 6,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Karmic_Balance.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/1zwdh9jdivnb7nl/Soeltz_Karmic_Balance.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/1zwdh9jdivnb7nl/Soeltz_Karmic_Balance.jpg?dl=0"
+  },
+  {
+    "TITLE": "Fence and Snow Shadows",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 10,
+    "HEIGHT_INCHES": 10,
+    "DESCRIPTION": "acrylic paint",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Fence_and_Snow_Shadows.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/e4cmeqh2y7gj7ry/Soeltz_Fence%20and%20Snow%20Shadows.jpg?dl=0"
+  },
+  {
+    "TITLE": "Western Red Cedar Shadows in Snow #1",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 10,
+    "HEIGHT_INCHES": 10,
+    "DESCRIPTION": "acrylic paint",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Western_Red_Cedar_Shadows_in_Snow_1.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/otjxgwyrndnqjyz/Soeltz_Western_Red_Cedar_Shadows_in_Snow%231.jpg?dl=0"
+  },
+  {
+    "TITLE": "Western Red Cedar Shadows in Snow #2",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 10,
+    "HEIGHT_INCHES": 10,
+    "DESCRIPTION": "ink/collage",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Western_Red_Cedar_Shadows_in_Snow_2.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/wbm95ypx0i2zaby/Soeltz_Western_Red_Cedar_Shadows_in%20Snow%232.jpg?dl=0"
   },
   {
     "TITLE": "Afternoon Haze",
@@ -908,11 +908,11 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 6,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Afternoon_Haze.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/o3uh3ik6sozrkuc/Soeltz_Afternoon_Haze.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/o3uh3ik6sozrkuc/Soeltz_Afternoon_Haze.jpg?dl=0"
   },
   {
     "TITLE": "Cast A Net",
@@ -923,11 +923,11 @@
     "DESCRIPTION": "paint/cheese cloth",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 6,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Cast_A_Net.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/49t487iekn8m9co/Soeltz_Cast_A_Net.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/49t487iekn8m9co/Soeltz_Cast_A_Net.jpg?dl=0"
   },
   {
     "TITLE": "Salt Marsh at Dusk",
@@ -942,7 +942,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Salt_Marsh_at_Dusk.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/8mj21f9tza2eeh7/Soeltz_Salt_Marsh_at_Dusk%20%281%29.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/8mj21f9tza2eeh7/Soeltz_Salt_Marsh_at_Dusk%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Hiker Feet",
@@ -953,71 +953,11 @@
     "DESCRIPTION": "set of 2, each 4x4, monotype collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 6,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_HikerFeet.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/v2ues5cn96mln0j/Soeltz_HikerFeet.jpg?dl=0"
-  },
-  {
-    "TITLE": "Hatched",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 7,
-    "HEIGHT_INCHES": 7,
-    "DESCRIPTION": "monoprint",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Hatched.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/dgh0zbt03ggd0vv/Soeltz_Hatched.jpg?dl=0"
-  },
-  {
-    "TITLE": "Emerge",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 7,
-    "HEIGHT_INCHES": 7,
-    "DESCRIPTION": "monoprint",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Emerge.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/gcd5b9bmgjyqudv/Soeltz_Emerge.jpg?dl=0"
-  },
-  {
-    "TITLE": "Bridging",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 7,
-    "HEIGHT_INCHES": 7,
-    "DESCRIPTION": "monoprint",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Bridging.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/pzjl4q97y0dl1h7/Soeltz_Bridging.jpg?dl=0"
-  },
-  {
-    "TITLE": "Exposed",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 7,
-    "HEIGHT_INCHES": 7,
-    "DESCRIPTION": "monoprint",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "Soeltz_Exposed.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/1tcgnqq08nalgms/Soeltz_Exposed.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/v2ues5cn96mln0j/Soeltz_HikerFeet.jpg?dl=0"
   },
   {
     "TITLE": "Cosmic Healing#1",
@@ -1032,7 +972,67 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "CosmicHealing.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/5g1q8gbn7p378au/CosmicHealing.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/5g1q8gbn7p378au/CosmicHealing.jpg?dl=0"
+  },
+  {
+    "TITLE": "Hatched",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 7,
+    "HEIGHT_INCHES": 7,
+    "DESCRIPTION": "monoprint",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": "",
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Hatched.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/dgh0zbt03ggd0vv/Soeltz_Hatched.jpg?dl=0"
+  },
+  {
+    "TITLE": "Emerge",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 7,
+    "HEIGHT_INCHES": 7,
+    "DESCRIPTION": "monoprint",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": "",
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Emerge.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/gcd5b9bmgjyqudv/Soeltz_Emerge.jpg?dl=0"
+  },
+  {
+    "TITLE": "Bridging",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 7,
+    "HEIGHT_INCHES": 7,
+    "DESCRIPTION": "monoprint",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": "",
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Bridging.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/pzjl4q97y0dl1h7/Soeltz_Bridging.jpg?dl=0"
+  },
+  {
+    "TITLE": "Exposed",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 7,
+    "HEIGHT_INCHES": 7,
+    "DESCRIPTION": "monoprint",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": "",
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Exposed.jpg",
+    "IMAGE_URL": "https://www.dropbox.com/s/1tcgnqq08nalgms/Soeltz_Exposed.jpg?dl=0"
   },
   {
     "TITLE": "Sax Musician#1",
@@ -1047,7 +1047,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Sax_Musician_1.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/7scvjvmboolxuqz/Soeltz_Sax_Musician%231%20%281%29.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/7scvjvmboolxuqz/Soeltz_Sax_Musician%231%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Sax Musician#2",
@@ -1062,7 +1062,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Sax_Musician_2.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/ess1yfml1d7lgvw/Soeltz_Sax_Musician%233%20%281%29%20%281%29.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/ess1yfml1d7lgvw/Soeltz_Sax_Musician%233%20%281%29%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Sax Musician#3",
@@ -1077,7 +1077,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Sax_Musician_3.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/ess1yfml1d7lgvw/Soeltz_Sax_Musician%233%20%281%29%20%281%29.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/ess1yfml1d7lgvw/Soeltz_Sax_Musician%233%20%281%29%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Marine Habitat",
@@ -1088,11 +1088,11 @@
     "DESCRIPTION": "paint/ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_Marine_Habitat.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/soi492axz0277fd/Soeltz_Marine_Habitat.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/soi492axz0277fd/Soeltz_Marine_Habitat.jpg?dl=0"
   },
   {
     "TITLE": "Spinning",
@@ -1103,11 +1103,11 @@
     "DESCRIPTION": "mosaic, ceramic/porcelain",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
+    "GRID_COUNT": 8,
+    "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_Spinning.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/jbu4ulloce4vcji/Soeltz_Spinning.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/jbu4ulloce4vcji/Soeltz_Spinning.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Bias",
@@ -1118,11 +1118,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Memory_Bias.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/krckohlcgni2863/Soeltz_Memory%3ABias%20%281%29.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/krckohlcgni2863/Soeltz_Memory%3ABias%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Persistence",
@@ -1133,11 +1133,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Memory_Persistence.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/7emnad3qq3dwb6l/Soeltz_Memory%3APersistence%20%282%29.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/7emnad3qq3dwb6l/Soeltz_Memory%3APersistence%20%282%29.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Blocked",
@@ -1148,11 +1148,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Memory_Blocking.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/an5a3eih8n5rpu6/Soeltz_Memory%3ABlocking.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/an5a3eih8n5rpu6/Soeltz_Memory%3ABlocking.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Suggestibility",
@@ -1163,11 +1163,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Memory_Suggestibility.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/pw3hgbg1yab06m0/Soeltz_Memory%3ASuggestibility%20%282%29.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/pw3hgbg1yab06m0/Soeltz_Memory%3ASuggestibility%20%282%29.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Absent Minded",
@@ -1178,11 +1178,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Memory_AbsentMinded.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/h02jpyj7n01jakn/Soeltz_Memory%3AAbsentMinded.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/h02jpyj7n01jakn/Soeltz_Memory%3AAbsentMinded.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Transience",
@@ -1193,11 +1193,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Memory_Transience.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/nv2r6ye9e0i7u1l/Soeltz_Memory%3ATransience.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/nv2r6ye9e0i7u1l/Soeltz_Memory%3ATransience.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Misattribution",
@@ -1208,11 +1208,11 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_MemorySeries_Misattribution.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/qzbek7k6f6fdcaq/Soeltz_MemorySeries%3AMisattribution.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/qzbek7k6f6fdcaq/Soeltz_MemorySeries%3AMisattribution.jpg?dl=0"
   },
   {
     "TITLE": "Universal Symbol#1 Diptych",
@@ -1223,11 +1223,11 @@
     "DESCRIPTION": "mixed media",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_UniversalSymbol_1Diptych.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/ajak1gw9l2za5wx/Soeltz_UniversalSymbol%231Diptych.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/ajak1gw9l2za5wx/Soeltz_UniversalSymbol%231Diptych.jpg?dl=0"
   },
   {
     "TITLE": "Universal Symbol#2 Diptych",
@@ -1238,11 +1238,11 @@
     "DESCRIPTION": "mixed media",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_UniversalSymbol_2Diptych.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/aa623savcaxtvum/Soeltz_UniversalSymbol%232Diptych.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/aa623savcaxtvum/Soeltz_UniversalSymbol%232Diptych.jpg?dl=0"
   },
   {
     "TITLE": "Maya",
@@ -1253,11 +1253,11 @@
     "DESCRIPTION": "mixed media",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Maya.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/b8071kj7acpvsd9/Soeltz_Maya.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/b8071kj7acpvsd9/Soeltz_Maya.jpg?dl=0"
   },
   {
     "TITLE": "System Moving Through",
@@ -1268,11 +1268,11 @@
     "DESCRIPTION": "soft pencil",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_SystemMovingThrough.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/i76q5usawks3ua8/Soeltz_SystemMovingThrough.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/i76q5usawks3ua8/Soeltz_SystemMovingThrough.jpg?dl=0"
   },
   {
     "TITLE": "Approaching Storm Sketch",
@@ -1283,11 +1283,11 @@
     "DESCRIPTION": "soft pencil",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Approaching_Storm_Sketch.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/xg46zbcrul61mp6/Soeltz_Approaching_Storm_Sketch.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/xg46zbcrul61mp6/Soeltz_Approaching_Storm_Sketch.jpg?dl=0"
   },
   {
     "TITLE": "Field Sketch",
@@ -1298,10 +1298,10 @@
     "DESCRIPTION": "soft pencil",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": "",
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Field_Sketch.jpg",
-    "FILENAME__1": "https://www.dropbox.com/s/1s7qgpd3eu56011/Soeltz_Field_Sketch.jpg?dl=0"
+    "IMAGE_URL": "https://www.dropbox.com/s/1s7qgpd3eu56011/Soeltz_Field_Sketch.jpg?dl=0"
   }
 ]

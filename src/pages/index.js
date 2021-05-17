@@ -1,11 +1,13 @@
 import React, {useState} from "react";
-import data from '../data/main.json';
+import RAW_DATA from '../data/main.json';
 import GridItem from '../components/GridItem';
 import styled from 'styled-components';
 import Header from '../components/Header';
 import Helmet from 'react-helmet';
 import {OverlayPortal} from '../components/Modal';
 import Lightbox from '../components/Modal/Lightbox';
+
+const data = RAW_DATA.filter(d => d.TITLE && d.FILENAME);
 
 const Root = styled.main`
   font-family: 'Source Sans Pro', sans-serif;

@@ -12,7 +12,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_See.jpg",
-    "SOURCE": "https://www.dropbox.com/s/mm5c2pqzzbtip5x/Soeltz_See.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/mm5c2pqzzbtip5x/Soeltz_See.jpg?dl=0"
   },
   {
     "TITLE": "Tryptich#2:Run",
@@ -27,7 +27,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Run.jpg",
-    "SOURCE": "https://www.dropbox.com/s/3bp9qae0shas81z/20190830_104216.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/3bp9qae0shas81z/20190830_104216.jpg?dl=0"
   },
   {
     "TITLE": "Tryptich#3:Embrace",
@@ -39,10 +39,10 @@
     "SOLD": "",
     "DISPLAY": "",
     "GRID_COUNT": 3,
-    "GRID_HEIGHT": "",
+    "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_Embrace.jpg",
-    "SOURCE": "https://www.dropbox.com/s/1v16ah0nc19d8pa/Soeltz_Embrace.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/1v16ah0nc19d8pa/Soeltz_Embrace.jpg?dl=0"
   },
   {
     "TITLE": "Ninety Years of Light",
@@ -57,7 +57,7 @@
     "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_NinetyYearsOfLight.jpg",
-    "SOURCE": "https://www.dropbox.com/s/q7l089e1kzno7nq/Soeltz_NinetyYearsOfLight.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/q7l089e1kzno7nq/Soeltz_NinetyYearsOfLight.jpg?dl=0"
   },
   {
     "TITLE": "Pond Life:Solitude",
@@ -72,7 +72,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Solitude.jpg",
-    "SOURCE": "https://www.dropbox.com/s/dtqib5ncwsi4a4p/Soeltz_Solitude.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/dtqib5ncwsi4a4p/Soeltz_Solitude.jpg?dl=0"
   },
   {
     "TITLE": "Portals",
@@ -87,7 +87,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Portals.jpg",
-    "SOURCE": "https://www.dropbox.com/s/2f8hjf2ltvrh09s/Soeltz_Portals.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/2f8hjf2ltvrh09s/Soeltz_Portals.jpg?dl=0"
   },
   {
     "TITLE": "Gingerly Balanced",
@@ -102,7 +102,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_GingerlyBalanced.jpg",
-    "SOURCE": "https://www.dropbox.com/s/ci0izfcalrmoast/Soeltz_GingerlyBalanced.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/ci0izfcalrmoast/Soeltz_GingerlyBalanced.jpg?dl=0"
   },
   {
     "TITLE": "Cross the Wilderness",
@@ -117,7 +117,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_CrossTheWilderness.jpg",
-    "SOURCE": "https://www.dropbox.com/s/5rp6ohpuy7eqr4q/Soeltz_CrossTheWilderness.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/5rp6ohpuy7eqr4q/Soeltz_CrossTheWilderness.jpg?dl=0"
   },
   {
     "TITLE": "Fully Booked",
@@ -132,7 +132,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Fully_Booked.jpg",
-    "SOURCE": "https://www.dropbox.com/s/in7529ezjg3e5oj/Soeltz_Fully_Booked.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/in7529ezjg3e5oj/Soeltz_Fully_Booked.jpg?dl=0"
   },
   {
     "TITLE": "Arctic Fox",
@@ -147,7 +147,7 @@
     "GRID_HEIGHT": 2,
     "": "",
     "FILENAME": "Soeltz_ArcticFox.jpg",
-    "SOURCE": "https://www.dropbox.com/home/Mobile%20Uploads?preview=Soeltz_ArcticFox.jpg"
+    "FILENAME__1": "https://www.dropbox.com/s/w5fsh9ml66jzmh7/Soeltz_ArcticFox.jpg?dl=0"
   },
   {
     "TITLE": "Tail and Tale",
@@ -162,7 +162,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Tail_and_Tale.jpg",
-    "SOURCE": "https://www.dropbox.com/s/qydqhzi1wxoty5h/Soeltz_Tail_and_Tale.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/qydqhzi1wxoty5h/Soeltz_Tail_and_Tale.jpg?dl=0"
   },
   {
     "TITLE": "Seasonal Change",
@@ -177,7 +177,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Seasonal_Change.jpg",
-    "SOURCE": "https://www.dropbox.com/s/fl5spom0hgci71i/Soeltz_Seasonal_Change.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/fl5spom0hgci71i/Soeltz_Seasonal_Change.jpg?dl=0"
   },
   {
     "TITLE": "Apple Melody",
@@ -192,7 +192,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Apple_Melody.jpg",
-    "SOURCE": "https://www.dropbox.com/s/egbpz8wykj8x90a/Soeltz_Apple_Melody.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/egbpz8wykj8x90a/Soeltz_Apple_Melody.jpg?dl=0"
   },
   {
     "TITLE": "Stone Halo",
@@ -207,7 +207,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_StoneHalo.jpg",
-    "SOURCE": "https://www.dropbox.com/s/85aa8pxj5g8euwy/Soeltz_StoneHalo.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/85aa8pxj5g8euwy/Soeltz_StoneHalo.jpg?dl=0"
   },
   {
     "TITLE": "Muse",
@@ -222,7 +222,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Muse.jpg",
-    "SOURCE": "https://www.dropbox.com/s/9i51w3rgizyrxt1/Soeltz_Muse.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/9i51w3rgizyrxt1/Soeltz_Muse.jpg?dl=0"
   },
   {
     "TITLE": "Fruition",
@@ -237,7 +237,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Fruition.jpg",
-    "SOURCE": "https://www.dropbox.com/s/hfgiqxigthw7aef/Soeltz_Fruition.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/hfgiqxigthw7aef/Soeltz_Fruition.jpg?dl=0"
   },
   {
     "TITLE": "Night Dance",
@@ -252,7 +252,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_NightDance.jpg",
-    "SOURCE": "https://www.dropbox.com/s/jgga0dbzzsd1s3p/Soeltz_NightDance.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/jgga0dbzzsd1s3p/Soeltz_NightDance.jpg?dl=0"
   },
   {
     "TITLE": "Found Shadow",
@@ -267,7 +267,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Found_Shadow.jpg",
-    "SOURCE": "https://www.dropbox.com/s/l2ng312zubhlu8h/Soeltz_Found_Shadow.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/l2ng312zubhlu8h/Soeltz_Found_Shadow.jpg?dl=0"
   },
   {
     "TITLE": "The Vote: What Informs Decision?",
@@ -281,8 +281,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_The_Vote%3AWhat%20informs%20decision%3F.jpg",
-    "SOURCE": "https://www.dropbox.com/s/kw5ndarklqd1lbi/Soeltz_The_Vote%3AWhat%20informs%20decision%3F.jpg?dl=0"
+    "FILENAME": "Soeltz_The_Vote_WhatInformsDecision.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/kw5ndarklqd1lbi/Soeltz_The_Vote%3AWhat%20informs%20decision%3F.jpg?dl=0"
   },
   {
     "TITLE": "Red Flat",
@@ -297,7 +297,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Red_Flat.jpg",
-    "SOURCE": "https://www.dropbox.com/home/Mobile%20Uploads?preview=Soeltz_Red_Flat.jpg"
+    "FILENAME__1": "https://www.dropbox.com/s/f5w1f4ohk1j3flc/Soeltz_Red_Flat.jpg?dl=0"
   },
   {
     "TITLE": "Pasture",
@@ -312,7 +312,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Pasture.jpg",
-    "SOURCE": "https://www.dropbox.com/s/6taa8mlomburktm/Soeltz_Pasture.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/6taa8mlomburktm/Soeltz_Pasture.jpg?dl=0"
   },
   {
     "TITLE": "Dusk on Cape",
@@ -327,7 +327,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Dusk_on_Cape.jpg",
-    "SOURCE": "https://www.dropbox.com/s/m10u9khiwob974c/Soeltz_Dusk_on_Cape.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/m10u9khiwob974c/Soeltz_Dusk_on_Cape.jpg?dl=0"
   },
   {
     "TITLE": "Taconic Farm",
@@ -342,7 +342,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Taconic_Farm.jpg",
-    "SOURCE": "https://www.dropbox.com/s/snau6waszjmx295/Soeltz_Taconic_Farm.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/snau6waszjmx295/Soeltz_Taconic_Farm.jpg?dl=0"
   },
   {
     "TITLE": "Under the Hemlock",
@@ -357,7 +357,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Under_the_Hemlock.jpg",
-    "SOURCE": "https://www.dropbox.com/s/4nrizg3jvwt04hg/Soeltz_Under_the_Hemlock.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/4nrizg3jvwt04hg/Soeltz_Under_the_Hemlock.jpg?dl=0"
   },
   {
     "TITLE": "Emilia's Music",
@@ -371,8 +371,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Emilia%27sMusic.jpg",
-    "SOURCE": "https://www.dropbox.com/s/cik4vooqx4kze0e/Soeltz_Emilia%27sMusic.jpg?dl=0"
+    "FILENAME": "Soeltz_EmiliasMusic.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/cik4vooqx4kze0e/Soeltz_Emilia%27sMusic.jpg?dl=0"
   },
   {
     "TITLE": "Through Space",
@@ -387,7 +387,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Through_Space.jpg",
-    "SOURCE": "https://www.dropbox.com/s/iksxc68uvwqu42g/Soeltz_Through_Space.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/iksxc68uvwqu42g/Soeltz_Through_Space.jpg?dl=0"
   },
   {
     "TITLE": "Shutters Afloat",
@@ -402,7 +402,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Shutters_Afloat.jpg",
-    "SOURCE": "https://www.dropbox.com/s/j92q1gwt68ka5nj/Soeltz_Shutters_Afloat.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/j92q1gwt68ka5nj/Soeltz_Shutters_Afloat.jpg?dl=0"
   },
   {
     "TITLE": "That Voice",
@@ -417,7 +417,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_ThatVoice.jpg",
-    "SOURCE": "https://www.dropbox.com/s/06czqldoy01qxwg/Soeltz_ThatVoice.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/06czqldoy01qxwg/Soeltz_ThatVoice.jpg?dl=0"
   },
   {
     "TITLE": "Bearing It",
@@ -432,7 +432,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Bearing_It.jpg",
-    "SOURCE": "https://www.dropbox.com/s/kjz4z7ygj9l0tf3/Soeltz_Bearing_It.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/kjz4z7ygj9l0tf3/Soeltz_Bearing_It.jpg?dl=0"
   },
   {
     "TITLE": "Dervish Dancer",
@@ -447,7 +447,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_DervishDancer.jpg",
-    "SOURCE": "https://www.dropbox.com/s/k8tht2xuzl3oenh/Soeltz_DervishDancer.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/k8tht2xuzl3oenh/Soeltz_DervishDancer.jpg?dl=0"
   },
   {
     "TITLE": "Shorebird",
@@ -462,7 +462,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_ShoreBird.jpg",
-    "SOURCE": "https://www.dropbox.com/s/znfo45b85hm8sta/Soeltz_ShoreBird.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/znfo45b85hm8sta/Soeltz_ShoreBird.jpg?dl=0"
   },
   {
     "TITLE": "Equanimity",
@@ -477,7 +477,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Equanimity.jpg",
-    "SOURCE": "https://www.dropbox.com/s/h61u6nm04k7upnn/Soeltz_Equanimity.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/h61u6nm04k7upnn/Soeltz_Equanimity.jpg?dl=0"
   },
   {
     "TITLE": "High Priest",
@@ -492,7 +492,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_High_Priest.jpg",
-    "SOURCE": "https://www.dropbox.com/s/u0czkcjk3n6oz0b/Soeltz_High_Priest.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/u0czkcjk3n6oz0b/Soeltz_High_Priest.jpg?dl=0"
   },
   {
     "TITLE": "Pond Life: Morning Sun",
@@ -507,7 +507,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Morning_Sun.jpg",
-    "SOURCE": "https://www.dropbox.com/s/lm6z873j31e2enh/Soeltz_Morning_Sun.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/lm6z873j31e2enh/Soeltz_Morning_Sun.jpg?dl=0"
   },
   {
     "TITLE": "Pond Life: Peak Season",
@@ -522,7 +522,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Peak_Season.jpg",
-    "SOURCE": "https://www.dropbox.com/s/fed57ah0dt1yy5n/Soeltz_Peak_Season.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/fed57ah0dt1yy5n/Soeltz_Peak_Season.jpg?dl=0"
   },
   {
     "TITLE": "Pond Life:Summer Blue",
@@ -537,7 +537,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Summer_Blue.jpg",
-    "SOURCE": "https://www.dropbox.com/s/q1qd2vky1usmmy6/Soeltz_Summer_Blue.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/q1qd2vky1usmmy6/Soeltz_Summer_Blue.jpg?dl=0"
   },
   {
     "TITLE": "Kindergarten",
@@ -552,7 +552,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Kindergarten.jpg",
-    "SOURCE": "https://www.dropbox.com/s/3fjnofus8hog40w/Soeltz_Kindergarten.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/3fjnofus8hog40w/Soeltz_Kindergarten.jpg?dl=0"
   },
   {
     "TITLE": "Flight",
@@ -567,7 +567,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Flight.jpg",
-    "SOURCE": "https://www.dropbox.com/s/ghngeyavg8h1s7v/Soeltz_Flight.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/ghngeyavg8h1s7v/Soeltz_Flight.jpg?dl=0"
   },
   {
     "TITLE": "Landing",
@@ -581,8 +581,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Landing%20%281%29.jpg",
-    "SOURCE": "https://www.dropbox.com/s/o2ebgjyeofhlyzy/Soeltz_Landing%20%281%29.jpg?dl=0"
+    "FILENAME": "Soeltz_Landing.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/o2ebgjyeofhlyzy/Soeltz_Landing%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Penguin: West",
@@ -597,7 +597,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Penguin_West.jpg",
-    "SOURCE": "https://www.dropbox.com/s/fk4ngjybnpz6eeb/Soeltz_Penguin_West.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/fk4ngjybnpz6eeb/Soeltz_Penguin_West.jpg?dl=0"
   },
   {
     "TITLE": "Penguin: North",
@@ -612,7 +612,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Penguin_North.jpg",
-    "SOURCE": "https://www.dropbox.com/s/oz1pu2uff4dap7k/Soeltz_Penguin_North.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/oz1pu2uff4dap7k/Soeltz_Penguin_North.jpg?dl=0"
   },
   {
     "TITLE": "Penguin: East",
@@ -627,7 +627,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Penguin_East.jpg",
-    "SOURCE": "https://www.dropbox.com/s/tw1cnprtoudwxrv/Soeltz_Penguin_East.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/tw1cnprtoudwxrv/Soeltz_Penguin_East.jpg?dl=0"
   },
   {
     "TITLE": "To Carry",
@@ -642,7 +642,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_ToCarry.jpg",
-    "SOURCE": "https://www.dropbox.com/s/xi43n4gnuzk0z6k/Soeltz_ToCarry.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/xi43n4gnuzk0z6k/Soeltz_ToCarry.jpg?dl=0"
   },
   {
     "TITLE": "Sunburst",
@@ -657,7 +657,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Sunburst.jpg",
-    "SOURCE": "https://www.dropbox.com/home/Mobile%20Uploads?preview=Soeltz_Sunburst.jpg"
+    "FILENAME__1": "https://www.dropbox.com/s/yp4561do8ml04a5/Soeltz_Sunburst.jpg?dl=0"
   },
   {
     "TITLE": "No Absentees",
@@ -672,7 +672,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_NoAbsentees.jpg",
-    "SOURCE": "https://www.dropbox.com/s/vnoxl9tsf3hjldj/Soeltz_NoAbsentees.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/vnoxl9tsf3hjldj/Soeltz_NoAbsentees.jpg?dl=0"
   },
   {
     "TITLE": "As You Go",
@@ -687,7 +687,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_AsYouGo.jpg",
-    "SOURCE": "https://www.dropbox.com/s/g6wfdqmdxm55yfa/Soeltz_AsYouGo.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/g6wfdqmdxm55yfa/Soeltz_AsYouGo.jpg?dl=0"
   },
   {
     "TITLE": "Daydreams Across My Desk",
@@ -702,7 +702,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_DaydreamsAcrossMyDesk.jpg",
-    "SOURCE": "https://www.dropbox.com/s/0mqfsnum07pilg8/Soeltz_DaydreamsAcrossMyDesk.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/0mqfsnum07pilg8/Soeltz_DaydreamsAcrossMyDesk.jpg?dl=0"
   },
   {
     "TITLE": "Sea Geometry",
@@ -717,7 +717,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Sea_Geometry.jpg",
-    "SOURCE": "https://www.dropbox.com/s/epyp10ucnl2rvmg/Soeltz_Sea_Geometry.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/epyp10ucnl2rvmg/Soeltz_Sea_Geometry.jpg?dl=0"
   },
   {
     "TITLE": "At Home On Ice",
@@ -732,7 +732,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_AtHomeOnIce.jpg",
-    "SOURCE": "https://www.dropbox.com/s/5jnlcqe5dvet0u4/Soeltz_AtHomeOnIce.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/jrycy28gmadkpeh/Soeltz_AtHomeOnIce%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Meant For You",
@@ -746,8 +746,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "MeantForYou%20%281%29.jpg",
-    "SOURCE": "https://www.dropbox.com/s/525e7bsyux153rm/MeantForYou%20%281%29.jpg?dl=0"
+    "FILENAME": "Soeltz_MeantForYou.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/rtkxh1998tkqtc1/Soeltz_MeantForYou.jpg?dl=081%29.jpg?dl=0"
   },
   {
     "TITLE": "Silo",
@@ -762,7 +762,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Silo.jpg",
-    "SOURCE": "https://www.dropbox.com/s/2rj4dhrt4h8heac/Soeltz_Silo.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/2rj4dhrt4h8heac/Soeltz_Silo.jpg?dl=0"
   },
   {
     "TITLE": "Shadows of Early Days",
@@ -777,7 +777,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Shadows_of_Early_Days.jpg",
-    "SOURCE": "https://www.dropbox.com/s/b3l1paes6v5hrdu/Soeltz_Shadows_of_Early_Days.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/b3l1paes6v5hrdu/Soeltz_Shadows_of_Early_Days.jpg?dl=0"
   },
   {
     "TITLE": "Moving Target",
@@ -792,7 +792,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Moving_Target.jpg",
-    "SOURCE": "https://www.dropbox.com/s/xnot3s882h7pxae/Soeltz_Moving_Target.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/xnot3s882h7pxae/Soeltz_Moving_Target.jpg?dl=0"
   },
   {
     "TITLE": "Transformation",
@@ -807,7 +807,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Transformation.jpg",
-    "SOURCE": "https://www.dropbox.com/home/Mobile%20Uploads?preview=Soeltz_Transformation.jpg"
+    "FILENAME__1": "https://www.dropbox.com/s/y11l3rhhe39l9xp/Soeltz_Transformation.jpg?dl=0"
   },
   {
     "TITLE": "Surrender",
@@ -822,7 +822,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Surrender.jpg",
-    "SOURCE": "https://www.dropbox.com/s/npp4mb7qh65080i/Soeltz_Surrender.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/npp4mb7qh65080i/Soeltz_Surrender.jpg?dl=0"
   },
   {
     "TITLE": "Edge of Sea at Twilight",
@@ -837,7 +837,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Edge_of_Sea_at_Twilight.jpg",
-    "SOURCE": "https://www.dropbox.com/s/zu7i5ay6otflcmn/Soeltz_Edge_of_Sea_at_Twilight.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/zu7i5ay6otflcmn/Soeltz_Edge_of_Sea_at_Twilight.jpg?dl=0"
   },
   {
     "TITLE": "Fence and Snow Shadows",
@@ -851,8 +851,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Fence%20and%20Snow%20Shadows.jpg",
-    "SOURCE": "https://www.dropbox.com/s/e4cmeqh2y7gj7ry/Soeltz_Fence%20and%20Snow%20Shadows.jpg?dl=0"
+    "FILENAME": "Soeltz_Fence_and_Snow_Shadows.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/e4cmeqh2y7gj7ry/Soeltz_Fence%20and%20Snow%20Shadows.jpg?dl=0"
   },
   {
     "TITLE": "Western Red Cedar Shadows in Snow #1",
@@ -866,8 +866,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Western_Red_Cedar_Shadows_in_Snow.jpg",
-    "SOURCE": "https://www.dropbox.com/home/Mobile%20Uploads?preview=Soeltz_Western_Red_Cedar_Shadows_in_Snow.jpg"
+    "FILENAME": "Soeltz_Western_Red_Cedar_Shadows_in_Snow_1.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/otjxgwyrndnqjyz/Soeltz_Western_Red_Cedar_Shadows_in_Snow%231.jpg?dl=0"
   },
   {
     "TITLE": "Western Red Cedar Shadows in Snow #2",
@@ -881,8 +881,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Western_Red_Cedar_Shadows_in+Snow%232.jpg",
-    "SOURCE": "https://www.dropbox.com/home/Mobile%20Uploads?preview=Soeltz_Western_Red_Cedar_Shadows_in+Snow%232.jpg"
+    "FILENAME": "Soeltz_Western_Red_Cedar_Shadows_in_Snow_2.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/wbm95ypx0i2zaby/Soeltz_Western_Red_Cedar_Shadows_in%20Snow%232.jpg?dl=0"
   },
   {
     "TITLE": "Karmic Balance",
@@ -897,7 +897,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Karmic_Balance.jpg",
-    "SOURCE": "https://www.dropbox.com/s/1zwdh9jdivnb7nl/Soeltz_Karmic_Balance.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/1zwdh9jdivnb7nl/Soeltz_Karmic_Balance.jpg?dl=0"
   },
   {
     "TITLE": "Afternoon Haze",
@@ -912,7 +912,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Afternoon_Haze.jpg",
-    "SOURCE": "https://www.dropbox.com/s/o3uh3ik6sozrkuc/Soeltz_Afternoon_Haze.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/o3uh3ik6sozrkuc/Soeltz_Afternoon_Haze.jpg?dl=0"
   },
   {
     "TITLE": "Cast A Net",
@@ -927,7 +927,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Cast_A_Net.jpg",
-    "SOURCE": "https://www.dropbox.com/s/49t487iekn8m9co/Soeltz_Cast_A_Net.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/49t487iekn8m9co/Soeltz_Cast_A_Net.jpg?dl=0"
   },
   {
     "TITLE": "Salt Marsh at Dusk",
@@ -941,8 +941,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Salt_Marsh_at_Dusk+(1).jpg",
-    "SOURCE": "https://www.dropbox.com/home/Mobile%20Uploads?preview=Soeltz_Salt_Marsh_at_Dusk+(1).jpg"
+    "FILENAME": "Soeltz_Salt_Marsh_at_Dusk.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/8mj21f9tza2eeh7/Soeltz_Salt_Marsh_at_Dusk%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Hiker Feet",
@@ -957,7 +957,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_HikerFeet.jpg",
-    "SOURCE": "https://www.dropbox.com/s/v2ues5cn96mln0j/Soeltz_HikerFeet.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/v2ues5cn96mln0j/Soeltz_HikerFeet.jpg?dl=0"
   },
   {
     "TITLE": "Hatched",
@@ -972,7 +972,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Hatched.jpg",
-    "SOURCE": "https://www.dropbox.com/s/dgh0zbt03ggd0vv/Soeltz_Hatched.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/dgh0zbt03ggd0vv/Soeltz_Hatched.jpg?dl=0"
   },
   {
     "TITLE": "Emerge",
@@ -987,7 +987,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Emerge.jpg",
-    "SOURCE": "https://www.dropbox.com/s/gcd5b9bmgjyqudv/Soeltz_Emerge.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/gcd5b9bmgjyqudv/Soeltz_Emerge.jpg?dl=0"
   },
   {
     "TITLE": "Bridging",
@@ -1002,7 +1002,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Bridging.jpg",
-    "SOURCE": "https://www.dropbox.com/s/pzjl4q97y0dl1h7/Soeltz_Bridging.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/pzjl4q97y0dl1h7/Soeltz_Bridging.jpg?dl=0"
   },
   {
     "TITLE": "Exposed",
@@ -1017,7 +1017,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Exposed.jpg",
-    "SOURCE": "https://www.dropbox.com/s/1tcgnqq08nalgms/Soeltz_Exposed.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/1tcgnqq08nalgms/Soeltz_Exposed.jpg?dl=0"
   },
   {
     "TITLE": "Cosmic Healing#1",
@@ -1032,82 +1032,7 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "CosmicHealing.jpg",
-    "SOURCE": "https://www.dropbox.com/s/5g1q8gbn7p378au/CosmicHealing.jpg?dl=0"
-  },
-  {
-    "TITLE": "Cosmic Healing#2",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 30,
-    "HEIGHT_INCHES": 30,
-    "DESCRIPTION": "mixed media",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
-  },
-  {
-    "TITLE": "Universal X",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 30,
-    "HEIGHT_INCHES": 30,
-    "DESCRIPTION": "mixed media",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
-  },
-  {
-    "TITLE": "Universal O",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 30,
-    "HEIGHT_INCHES": 30,
-    "DESCRIPTION": "mixed media",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
-  },
-  {
-    "TITLE": "Maya",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": 28.75,
-    "HEIGHT_INCHES": 35.75,
-    "DESCRIPTION": "mixed media",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
-  },
-  {
-    "TITLE": "",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": "",
-    "HEIGHT_INCHES": "",
-    "DESCRIPTION": "",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
+    "FILENAME__1": "https://www.dropbox.com/s/5g1q8gbn7p378au/CosmicHealing.jpg?dl=0"
   },
   {
     "TITLE": "Sax Musician#1",
@@ -1121,8 +1046,8 @@
     "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Sax_Musician%231%20%281%29.jpg",
-    "SOURCE": "https://www.dropbox.com/s/7scvjvmboolxuqz/Soeltz_Sax_Musician%231%20%281%29.jpg?dl=0"
+    "FILENAME": "Soeltz_Sax_Musician_1.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/7scvjvmboolxuqz/Soeltz_Sax_Musician%231%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Sax Musician#2",
@@ -1136,8 +1061,8 @@
     "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Sax_Musician%232%20%281%29%20%281%29.jpg",
-    "SOURCE": "https://www.dropbox.com/s/9bfrzlalgkaob6l/Soeltz_Sax_Musician%232%20%281%29%20%281%29.jpg?dl=0"
+    "FILENAME": "Soeltz_Sax_Musician_2.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/ess1yfml1d7lgvw/Soeltz_Sax_Musician%233%20%281%29%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Sax Musician#3",
@@ -1151,38 +1076,8 @@
     "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Sax_Musician%233%20%281%29%20%281%29.jpg",
-    "SOURCE": "https://www.dropbox.com/s/ess1yfml1d7lgvw/Soeltz_Sax_Musician%233%20%281%29%20%281%29.jpg?dl=0"
-  },
-  {
-    "TITLE": "",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": "",
-    "HEIGHT_INCHES": "",
-    "DESCRIPTION": "",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
-  },
-  {
-    "TITLE": "",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": "",
-    "HEIGHT_INCHES": "",
-    "DESCRIPTION": "",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
+    "FILENAME": "Soeltz_Sax_Musician_3.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/ess1yfml1d7lgvw/Soeltz_Sax_Musician%233%20%281%29%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Marine Habitat",
@@ -1197,52 +1092,22 @@
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Marine_Habitat.jpg",
-    "SOURCE": "https://www.dropbox.com/s/soi492axz0277fd/Soeltz_Marine_Habitat.jpg?dl=0"
+    "FILENAME__1": "https://www.dropbox.com/s/soi492axz0277fd/Soeltz_Marine_Habitat.jpg?dl=0"
   },
   {
-    "TITLE": "",
+    "TITLE": "Spinning",
     "CREATED": "",
     "PRICE": "",
-    "WIDTH_INCHES": "",
-    "HEIGHT_INCHES": "",
-    "DESCRIPTION": "",
+    "WIDTH_INCHES": 21.5,
+    "HEIGHT_INCHES": 20,
+    "DESCRIPTION": "mosaic, ceramic/porcelain",
     "SOLD": "",
     "DISPLAY": "",
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "",
-    "SOURCE": ""
-  },
-  {
-    "TITLE": "",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": "",
-    "HEIGHT_INCHES": "",
-    "DESCRIPTION": "",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
-  },
-  {
-    "TITLE": "",
-    "CREATED": "",
-    "PRICE": "",
-    "WIDTH_INCHES": "",
-    "HEIGHT_INCHES": "",
-    "DESCRIPTION": "",
-    "SOLD": "",
-    "DISPLAY": "",
-    "GRID_COUNT": "",
-    "GRID_HEIGHT": "",
-    "": "",
-    "FILENAME": "",
-    "SOURCE": ""
+    "FILENAME": "Soeltz_Spinning.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/jbu4ulloce4vcji/Soeltz_Spinning.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Bias",
@@ -1256,8 +1121,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Memory%3ABias%20%281%29.jpg",
-    "SOURCE": "https://www.dropbox.com/s/krckohlcgni2863/Soeltz_Memory%3ABias%20%281%29.jpg?dl=0"
+    "FILENAME": "Soeltz_Memory_Bias.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/krckohlcgni2863/Soeltz_Memory%3ABias%20%281%29.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Persistence",
@@ -1271,8 +1136,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Memory%3APersistence%20%282%29.jpg",
-    "SOURCE": "https://www.dropbox.com/s/7emnad3qq3dwb6l/Soeltz_Memory%3APersistence%20%282%29.jpg?dl=0"
+    "FILENAME": "Soeltz_Memory_Persistence.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/7emnad3qq3dwb6l/Soeltz_Memory%3APersistence%20%282%29.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Blocked",
@@ -1286,8 +1151,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Memory%3ABlocking.jpg",
-    "SOURCE": "https://www.dropbox.com/s/an5a3eih8n5rpu6/Soeltz_Memory%3ABlocking.jpg?dl=0"
+    "FILENAME": "Soeltz_Memory_Blocking.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/an5a3eih8n5rpu6/Soeltz_Memory%3ABlocking.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Suggestibility",
@@ -1301,8 +1166,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Memory%3ASuggestibility%20%282%29.jpg",
-    "SOURCE": "https://www.dropbox.com/s/pw3hgbg1yab06m0/Soeltz_Memory%3ASuggestibility%20%282%29.jpg?dl=0"
+    "FILENAME": "Soeltz_Memory_Suggestibility.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/pw3hgbg1yab06m0/Soeltz_Memory%3ASuggestibility%20%282%29.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Absent Minded",
@@ -1316,8 +1181,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Memory%3AAbsentMinded.jpg",
-    "SOURCE": "https://www.dropbox.com/s/h02jpyj7n01jakn/Soeltz_Memory%3AAbsentMinded.jpg?dl=0"
+    "FILENAME": "Soeltz_Memory_AbsentMinded.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/h02jpyj7n01jakn/Soeltz_Memory%3AAbsentMinded.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Transience",
@@ -1331,8 +1196,8 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Memory%3ATransience.jpg",
-    "SOURCE": "https://www.dropbox.com/s/nv2r6ye9e0i7u1l/Soeltz_Memory%3ATransience.jpg?dl=0"
+    "FILENAME": "Soeltz_Memory_Transience.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/nv2r6ye9e0i7u1l/Soeltz_Memory%3ATransience.jpg?dl=0"
   },
   {
     "TITLE": "Memory Series: Misattribution",
@@ -1346,7 +1211,52 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_MemorySeries%3AMisattribution.jpg",
-    "SOURCE": "https://www.dropbox.com/s/qzbek7k6f6fdcaq/Soeltz_MemorySeries%3AMisattribution.jpg?dl=0"
+    "FILENAME": "Soeltz_MemorySeries_Misattribution.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/qzbek7k6f6fdcaq/Soeltz_MemorySeries%3AMisattribution.jpg?dl=0"
+  },
+  {
+    "TITLE": "Universal Symbol#1 Diptych",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 36,
+    "HEIGHT_INCHES": 36,
+    "DESCRIPTION": "mixed media",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": "",
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_UniversalSymbol_1Diptych.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/ajak1gw9l2za5wx/Soeltz_UniversalSymbol%231Diptych.jpg?dl=0"
+  },
+  {
+    "TITLE": "Universal Symbol#2 Diptych",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 36,
+    "HEIGHT_INCHES": 36,
+    "DESCRIPTION": "mixed media",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": "",
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_UniversalSymbol_2Diptych.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/aa623savcaxtvum/Soeltz_UniversalSymbol%232Diptych.jpg?dl=0"
+  },
+  {
+    "TITLE": "Maya",
+    "CREATED": "",
+    "PRICE": "",
+    "WIDTH_INCHES": 35.75,
+    "HEIGHT_INCHES": 28.75,
+    "DESCRIPTION": "mixed media",
+    "SOLD": "",
+    "DISPLAY": "",
+    "GRID_COUNT": "",
+    "GRID_HEIGHT": "",
+    "": "",
+    "FILENAME": "Soeltz_Maya.jpg",
+    "FILENAME__1": "https://www.dropbox.com/s/b8071kj7acpvsd9/Soeltz_Maya.jpg?dl=0"
   }
 ]

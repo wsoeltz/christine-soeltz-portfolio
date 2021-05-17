@@ -2,6 +2,7 @@ import React from "react";
 import styled from 'styled-components';
 import Header from '../components/Header';
 import Helmet from 'react-helmet';
+import Footer from '../components/Footer';
 
 const Root = styled.main`
   font-family: 'Source Sans Pro', sans-serif;
@@ -9,6 +10,14 @@ const Root = styled.main`
 const Content = styled.div`
   max-width: 800px;
   margin: auto;
+  text-align: center;
+  font-size: 1.2rem;
+  line-height: 2;
+  color: #303e4c;
+
+  a {
+    color: #3a87b4;
+  }
 `;
 
 // markup
@@ -24,16 +33,17 @@ const AboutPage = props => {
           href="https://fonts.googleapis.com/css2?family=Crushed&family=Source+Sans+Pro:wght@400;600&display=swap"
           rel="stylesheet"
         />
-        <title>About Christine Soeltz</title>
-        <meta property='og:title' content={'About Christine Soeltz'} />
+        <title>Contact Christine Soeltz</title>
+        <meta property='og:title' content={'Contact Christine Soeltz'} />
       </Helmet>
       <Root>
         <Header location={props.location} />
         <Content>
           <p>
-            Contact
+            For commisions or inquiries, please email me at <a href="mailto:chooseitquick@comcast.net">chooseitquick@comcast.net</a>
           </p>
         </Content>
+        <Footer />
       </Root>
     </>
   )

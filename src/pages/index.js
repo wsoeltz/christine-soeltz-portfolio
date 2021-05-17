@@ -23,7 +23,7 @@ const Grid = styled.div`
 `;
 
 // markup
-const IndexPage = () => {
+const IndexPage = props => {
 
   const [active, setActive] = useState(null);
   const nextActive = () => {
@@ -74,14 +74,14 @@ const IndexPage = () => {
           href="https://fonts.gstatic.com"
         />
         <link
-          href="https://fonts.googleapis.com/css2?family=Arapey&family=Source+Sans+Pro:wght@400;600&display=swap"
+          href="https://fonts.googleapis.com/css2?family=Crushed&family=Source+Sans+Pro:wght@400;600&display=swap"
           rel="stylesheet"
         />
         <title>Christine Soeltz | Artist Portfolio</title>
         <meta property='og:title' content={'Christine Soeltz | Artist Portfolio'} />
       </Helmet>
       <Root>
-        <Header />
+        <Header location={props.location} />
         <Grid>
           {items}
         </Grid>

@@ -14,6 +14,7 @@ const Content = styled.div`
   font-size: 1.1rem;
   line-height: 2;
   color: #303e4c;
+  padding: 0 1rem;
 `;
 
 const Dropcap = styled.span`
@@ -41,6 +42,12 @@ const ProfilePic = styled.img`
   width: 200px;
   margin: 0 0 0.75rem 0.75rem;
   border-radius: 700px;
+
+  @media (max-width: 700px) {
+    float: none;
+    margin: 0 auto 3rem;
+    display: block;
+  }
 `;
 
 // markup

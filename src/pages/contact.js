@@ -14,6 +14,7 @@ const Content = styled.div`
   font-size: 1.2rem;
   line-height: 2;
   color: #303e4c;
+  padding: 0 1rem;
 
   a {
     color: #3a87b4;

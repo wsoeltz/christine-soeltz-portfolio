@@ -75,7 +75,7 @@ const Lightbox = props => {
   }
   let imageUrl;
   try {
-    imageUrl = require('../../images/low-res/' + FILENAME).default;
+    imageUrl = require('../../images/watermarked/' + FILENAME).default;
   } catch(err) {
     console.error(err);
   }

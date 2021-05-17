@@ -50,7 +50,7 @@ const GridItem = props => {
   }
   let imageUrl;
   try {
-    imageUrl = require('../images/low-res/' + FILENAME).default;
+    imageUrl = require('../images/thumbnail/' + FILENAME).default;
   } catch(err) {
     console.error(err);
   }

@@ -41,7 +41,7 @@ const AboutPage = props => {
         <Header location={props.location} />
         <Content>
           <p>
-            For commisions or inquiries, please email me at <a href="mailto:chooseitquick@comcast.net">chooseitquick@comcast.net</a>
+            For commisions or inquiries, please email me at <a href="mailto:csoeltz@gmail.com">csoeltz@gmail.com</a>
           </p>
         </Content>
         <Footer />

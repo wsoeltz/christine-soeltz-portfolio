@@ -42,10 +42,12 @@ const NavButtonBase = styled.button`
   width: auto;
   line-height: normal;
   -webkit-font-smoothing: inherit;
+  -webkit-appearance: none;
+  -moz-appearance: none;
   appearance: none;
   color: #fff;
   padding: 1rem 2rem;
-  background-color: transparent;
+  background: transparent;
   font-size: 2rem;
   position: absolute;
   top: 0;

@@ -17,7 +17,7 @@ const ImageContainer = styled.div`
 
 const Image = styled.div`
   width: 100%;
-  min-height: 300px;
+  min-height: 200px;
   height: 100%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -75,7 +75,7 @@ const GridItem = props => {
         <Image
           style={{
             backgroundImage: `url("${imageUrl}")`,
-            minHeight: GRID_HEIGHT ? '735px' : undefined,
+            minHeight: GRID_HEIGHT ? '535px' : undefined,
           }}
         />
       </ImageContainer>

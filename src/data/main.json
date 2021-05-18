@@ -106,7 +106,7 @@
     "DESCRIPTION": "paint/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 4,
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_CrossTheWilderness.jpg"
@@ -120,7 +120,7 @@
     "DESCRIPTION": "collage:oil crayon, fabric, paper",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 3,
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Fully_Booked.jpg"
@@ -177,7 +177,7 @@
     "SOLD": "",
     "DISPLAY": "",
     "GRID_COUNT": 6,
-    "GRID_HEIGHT": 2,
+    "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_AtHomeOnIce.jpg"
   },
@@ -191,7 +191,7 @@
     "SOLD": "",
     "DISPLAY": "",
     "GRID_COUNT": 6,
-    "GRID_HEIGHT": 2,
+    "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_MeantForYou.jpg"
   },
@@ -428,7 +428,7 @@
     "DESCRIPTION": "acrylic painting",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 4,
+    "GRID_COUNT": 6,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Through_Space.jpg"
@@ -442,7 +442,7 @@
     "DESCRIPTION": "acrylic painting on wood",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 4,
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_Shutters_Afloat.jpg"
@@ -456,7 +456,7 @@
     "DESCRIPTION": "monoprint/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 4,
+    "GRID_COUNT": 3,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_ThatVoice.jpg"
@@ -697,7 +697,7 @@
     "GRID_COUNT": "",
     "GRID_HEIGHT": "",
     "": "",
-    "FILENAME": "Soeltz_Sea_Geometry.jpg"
+    "FILENAME": "Soeltz_SeaGeometry.jpg"
   },
   {
     "TITLE": "Silo",

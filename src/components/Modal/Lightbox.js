@@ -25,8 +25,10 @@ const Content = styled.div`
 `;
 
 const Title = styled.h1`
-  margin-bottom: 0.65rem;
+  margin-bottom: 0.25rem;
+  font-size: 1.55rem;
   pointer-events: all;
+  text-align: center;
 `;
 
 const Detail = styled.div`
@@ -35,7 +37,7 @@ const Detail = styled.div`
   pointer-events: all;
 `;
 
-const NavButtonBase = styled.button`
+const NavButtonBase = styled.div`
   cursor: pointer;
   pointer-events: all;
   border: none;
@@ -52,6 +54,8 @@ const NavButtonBase = styled.button`
   position: absolute;
   top: 0;
   bottom: 0;
+  display: flex;
+  align-items: center;
 `;
 
 const NextButton = styled(NavButtonBase)`
@@ -101,10 +105,16 @@ const Lightbox = props => {
           </Title>
           {size}
           {desc}
-          <NextButton onClick={props.nextActive}>
+          <NextButton
+            onClick={props.nextActive}
+            role="button"
+          >
             →
           </NextButton>
-          <PrevButton onClick={props.prevActive}>
+          <PrevButton
+            onClick={props.prevActive}
+            role="button"
+          >
             ←
           </PrevButton>
         </Content>

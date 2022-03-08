@@ -73,6 +73,12 @@ const Header = props => {
             About
           </NavLink>
           <NavLink
+            to={'/classes'}
+            className={props.location.pathname === '/classes' ? 'active' : undefined}
+          >
+            Classes
+          </NavLink>
+          <NavLink
             to={'/contact'}
             className={props.location.pathname === '/contact' ? 'active' : undefined}
           >

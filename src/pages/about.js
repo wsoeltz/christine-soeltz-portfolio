@@ -77,8 +77,19 @@ const AboutPage = props => {
           My latest pieces are mosaics of ceramic and porcelain tiles. Based upon the spatial ordering in recent paintings and prints, which show a tendency toward geometric components, this current transition into mosaics is a natural trajectory. Broken and cut pieces bring to life images of the natural world which include a snow covered forest, “Meant for You”, a mute swan in “At Home on Ice” and a circle of dance in “Spinning”.
           </p>
           <p>
-          Upon stepping away from my art teaching career in the public schools of Wayland, MA, I rented an art studio in 2019 and spent the year creating and adding to my collection of work. I received awards in two juried exhibits that year. The James Library Center for the Arts, Norwell, MA, awarded the painting, "Ninety Years of Light" in the show, "Continuum”.  From ATAC in Framingham, MA, the painting, “The Vote: What Informs Decision?” was awarded recognition in the annual juried exhibit. An extensive collection of work was on view at Howard Street’s Open Studios in 2019, in Framingham, MA and The Hopkinton Cultural Arts Center exhibited submissions in 2020. A selection from this gallery will be exhibited June 2-27, 2021 at Fountain Street Gallery in Boston. I hold a Masters Degree in Technology in Education and a Bachelors in Art Education. I live in Massachusetts and work at Central Street Studios.
+          With an MS in Technology in Education and a BS in Art Education I was fortunate to enjoy a life long career teaching in Wayland and New York state.  I live in Massachusetts and work at both Western Avenue Studios, Framingham and Central Street Studios, Acton. Ongoing workshops in mosaics, drawing, painting, monotype printmaking and 3D wall art are currently being offered at Western Avenue Studios. Please contact me for more information. 
           </p>
+          <p>
+            <strong>Recent Exhibits and Open Studios:</strong>
+          </p>
+          <ul>
+            <li>Western Avenue Studios, Lowell, MA- Monthly Open Studios, 2021 to present</li>
+            <li>Fountain Street Gallery, Boston, MA- Annex Member, Exhibited six works, June 2021</li>
+            <li>Hopkinton Cultural Arts Center, MA- Group Show, 2020</li>
+            <li>The James Library Center for the Arts, Norwell, MA- Juried and Awarded for "Ninety Years of Light", 2019</li>
+            <li>Atac, Framingham, MA- Annual Juried Show, Awarded for "The Vote: What Informs Decision?", 2019</li>
+            <li>Howard Street Studios, Framingham, MA- Open Studio and by appointment, 2019-20</li>
+          </ul>
         </Content>
         <Footer />
       </Root>

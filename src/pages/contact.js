@@ -41,6 +41,9 @@ const AboutPage = props => {
         <Header location={props.location} />
         <Content>
           <p>
+            Ongoing workshops in mosaics, drawing, painting, monotype printmaking and 3D wall art are currently being offered at Western Avenue Studios. Please contact me for more information.
+          </p>
+          <p>
             For commisions or inquiries, please email me at <a href="mailto:csoeltz@gmail.com">csoeltz@gmail.com</a>
           </p>
         </Content>

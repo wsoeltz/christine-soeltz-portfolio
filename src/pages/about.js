@@ -83,6 +83,7 @@ const AboutPage = props => {
             <strong>Recent Exhibits and Open Studios:</strong>
           </p>
           <ul>
+            <li>Belmont Gallery of Art, Belmont, MA- March 20 to May 8, 2022</li>
             <li>Western Avenue Studios, Lowell, MA- Monthly Open Studios, 2021 to present</li>
             <li>Fountain Street Gallery, Boston, MA- Annex Member, Exhibited six works, June 2021</li>
             <li>Hopkinton Cultural Arts Center, MA- Group Show, 2020</li>

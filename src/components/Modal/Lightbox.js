@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import styled from 'styled-components';
 import Modal from './';
 
@@ -74,6 +74,12 @@ const Lightbox = props => {
     DESCRIPTION,
   } = props;
 
+  const [loading, setLoading] = useState(true)
+
+  useEffect(() => {
+    setLoading(true)
+  }, [FILENAME])
+
   if (!TITLE || !FILENAME) {
     return null;
   }
@@ -98,13 +104,14 @@ const Lightbox = props => {
       <Root>
         <Image
           src={imageUrl}
+          onLoad={() => setLoading(false)}
         />
         <Content>
-          <Title>
+          <Title style={{visibility: loading ? 'hidden' : undefined}}>
             {props.TITLE}
           </Title>
-          {size}
-          {desc}
+          {!loading && size}
+          {!loading && desc}
           <NextButton
             onClick={props.nextActive}
             role="button"

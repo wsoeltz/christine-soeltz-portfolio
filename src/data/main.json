@@ -386,8 +386,8 @@
     "DESCRIPTION": "ink/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 5,
-    "GRID_HEIGHT": 2,
+    "GRID_COUNT": 4,
+    "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_GingerlyBalanced.jpg"
   },
@@ -400,7 +400,7 @@
     "DESCRIPTION": "paint/collage",
     "SOLD": "",
     "DISPLAY": "",
-    "GRID_COUNT": 3,
+    "GRID_COUNT": 4,
     "GRID_HEIGHT": "",
     "": "",
     "FILENAME": "Soeltz_CrossTheWilderness.jpg"

@@ -4,6 +4,7 @@
   "private": true,
   "description": "Christine Soeltz' Portfolio",
   "author": "Kyle Soeltz",
+  "homepage": "./public",
   "keywords": [
     "gatsby"
   ],

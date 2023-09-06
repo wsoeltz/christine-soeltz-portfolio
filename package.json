@@ -13,7 +13,7 @@
     "build": "gatsby build",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
-    "deploy": "gatsby build && gh-pages -d public -b gh-pages"
+    "deploy": "gatsby build && git add ./public && git commit -m \"Deploy site\" && git push"
   },
   "dependencies": {
     "babel-plugin-styled-components": "^1.12.0",

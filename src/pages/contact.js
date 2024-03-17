@@ -44,7 +44,10 @@ const AboutPage = props => {
             Ongoing workshops in mosaics, drawing, painting, monotype printmaking and 3D wall art are currently being offered at Western Avenue Studios. Please contact me for more information.
           </p>
           <p>
-            For commisions or inquiries, please email at <a href="mailto:csoeltz@gmail.com">csoeltz@gmail.com</a> or text me <a href="sms:+19783376512">+1 978-337-6512</a>
+            For commisions or inquiries, please email at <a href="mailto:csoeltz@gmail.com">csoeltz@gmail.com</a> or text me <a href="sms:+19783376512">+1 978-337-6512</a>.
+          </p>
+          <p>
+            You can find me in-person at <a href="https://maps.app.goo.gl/XDgA6UrXcvfqmmfb9">Western Avenue Studios, Studio 253, Western Ave, Lowell, MA</a>. I am available by appointment most days. The first Saturday of every month is open studios.
           </p>
         </Content>
         <Footer />
